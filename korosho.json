@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"korosho mbao",
+        "description":"Ni korosho tamu sana",
+        "price":"1500"
+    },
+    {
+        "id":"2",
+        "name":"korosho A",
+        "description":"Ni Za kisasa",
+        "price":"2000"
+    },
+    {
+        "id":"3",
+        "name":"korosho B",
+        "description":"Zinazaa mara mbili kwa mwaka",
+        "price":"2000"
+    }
+]

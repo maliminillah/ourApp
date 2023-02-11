@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"kitenge",
+        "description":"have many proteins",
+        "price":"1500"
+    },
+    {
+        "id":"2",
+        "name":"njano",
+        "description":"have normal protein",
+       "price":"1300"
+    },
+    {
+        "id":"3",
+        "name":"twiga",
+        "description":"minimal protein",
+        "price":"1200"
+    }
+]

@@ -1,0 +1,15 @@
+.contentStyle{
+    height: '160px';
+    color: '#fff';
+    line-Height: '160px';
+    text-Align: 'center';
+    background: '#364d79';
+  }
+.mazao{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    border-radius: 4%;
+}

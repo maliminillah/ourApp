@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"panaco",
+        "description":"three maize at onces",
+        "price":"13000"
+    },
+    {
+        "id":"2",
+        "name":"seedco",
+        "description":"two maize at onces",
+        "price":"11000"
+    },
+    {
+        "id":"3",
+        "name":"twiga",
+        "description":"four maize at onces",
+        "price":"14000"
+    }
+]

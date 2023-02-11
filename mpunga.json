@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "name":"sallo",
+        "description":"take 3 months",
+        "image":"../img/pexels-hammad-khalid-1786433.jpg",
+        "price":"15000"
+    },
+    {
+        "id":"2",
+        "name":"super sallo",
+        "description":"take 4 months",
+        "image":"../img/pexels-hammad-khalid-1786433.jpg",
+       "price":"17500"
+    },
+    {
+        "id":"3",
+        "name":"shinyanga",
+        "description":"take 5 months",
+        "image":"../img/pexels-hammad-khalid-1786433.jpg",
+        "price":"18700"
+    }
+]
